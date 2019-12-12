@@ -138,15 +138,15 @@ Java sample:
 
 ## Pushes customization
 
-To customize pushes override these resources (in res folder of your application):
+To customize pushes override these resources (in res folder of your application):<br /><br />
 
-Drawables
- ic_def_myrealpush_notification.png - to customize status bar notification icon 
+Drawables<br />
+ ic_def_myrealpush_notification.png - to customize status bar notification icon<br /><br />
 
-Strings
+Strings<br /><br />
 
-Warnings, Google Play services is missing
- mypealpush_gpls_missing_alert_text - alert text, by default is "To receive push notifications please press 'Update' to enable 'Google Play services'."
- mypealpush_gpls_missing_alert_button_update - update button text,  by default is "Update"
- mypealpush_gpls_missing_alert_button_skip - skip button text,  by default is "Skip"
- mypealpush_gpls_missing_alert_button_close - close button text,  by default is "Close"
+Warnings, Google Play services is missing<br />
+ mypealpush_gpls_missing_alert_text - alert text, by default is "To receive push notifications please press 'Update' to enable 'Google Play services'."<br />
+ mypealpush_gpls_missing_alert_button_update - update button text,  by default is "Update"<br />
+ mypealpush_gpls_missing_alert_button_skip - skip button text,  by default is "Skip"<br />
+ mypealpush_gpls_missing_alert_button_close - close button text,  by default is "Close"<br />
