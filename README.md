@@ -143,8 +143,7 @@ To customize pushes override these resources (in res folder of your application)
 Drawables<br />
  ic_def_myrealpush_notification.png - to customize status bar notification icon<br /><br />
 
-Strings<br /><br />
-
+Strings<br />
 Warnings, Google Play services is missing<br />
  mypealpush_gpls_missing_alert_text - alert text, by default is "To receive push notifications please press 'Update' to enable 'Google Play services'."<br />
  mypealpush_gpls_missing_alert_button_update - update button text,  by default is "Update"<br />
