@@ -9,7 +9,7 @@ allprojects {
     repositories {
         google()
         jcenter()
-        maven { url 'https://raw.githubusercontent.com/evgentset/push_lib/master/releases'
+        maven {url 'https://raw.githubusercontent.com/myrealpush/android_sdk/master/releases'
             credentials(HttpHeaderCredentials) {
                 name = "Authorization"
                 value = "Bearer {PUT YOUR GITHUB ACCESS TOKEN HERE}"
